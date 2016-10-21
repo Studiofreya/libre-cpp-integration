@@ -1,6 +1,6 @@
 # Integrating LibreOffice from C++
 
-This repository is code for articles published on (https://studiofreya.com/)[Studiofreya].
+This repository is code for articles published on https://studiofreya.com/.
 
 Relevant articles:
 
